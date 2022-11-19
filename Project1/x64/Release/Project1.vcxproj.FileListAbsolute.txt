@@ -1,0 +1,4 @@
+C:\code\Project1\Project1\x64\Release\Project1.vcxproj.AssemblyReference.cache
+C:\code\Project1\Project1\x64\Release\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\code\Project1\Project1\x64\Release\Project1.MyForm.resources
+C:\code\Project1\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
